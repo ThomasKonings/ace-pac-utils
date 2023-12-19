@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+#Jupiter notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# VSC workspaces
+*.code-workspace
+
 # Distribution / packaging
 .Python
 build/
