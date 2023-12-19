@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/ThomasKonings/ace-pac-utils/blob/main/logo_apu.png" width="250" title="ace-pac-utils">
+</p>
+
 # ace-pac-utils (APU)
 Tool to process and analyze the output of the chemistry codes ACE and PAC
 
