@@ -5,4 +5,4 @@ from .PRT_ATM import PRT_ATM
 from .utils import *
 from .petitRADTRANS_init import *
 from .PAC_super import PAC_super
-from .compare_pac1d_utils import *
+# import .plot.pac1d_compare_simulations as
